@@ -1,0 +1,22 @@
+{
+  "name": "tess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/bot.js",
+    "start": "node ./src/bot.js",
+    "lavalink": "java -jar Lavalink.jar"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "erela.js": "^2.3.3",
+    "solenolyrics": "^5.0.0"
+  }
+}

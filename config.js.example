@@ -1,0 +1,5 @@
+//Rename this file to "config.js"
+
+module.exports = {
+  token: "BOT-TOKEN-HERE",
+};
